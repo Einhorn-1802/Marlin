@@ -492,9 +492,9 @@
     #define DEFAULT_Ki_LIST {   1.08,   1.0 }
     #define DEFAULT_Kd_LIST { 114.00, 112.0 }
   #else // Sapphire Pro (Frank Michel)
-    #define DEFAULT_Kp  10.82
-    #define DEFAULT_Ki   0.56
-    #define DEFAULT_Kd 52.45
+     #define DEFAULT_Kp 14.33
+     #define DEFAULT_Ki 0.91
+     #define DEFAULT_Kd 56.57
   #endif
 
 #endif // PIDTEMP
